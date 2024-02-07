@@ -11,13 +11,13 @@ Make sure you have Python and pip installed. You can download them from [here](h
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/prudvi-m/flask
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd flask
     ```
 
 3. Install the required dependencies using pip:
