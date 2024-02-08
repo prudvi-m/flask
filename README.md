@@ -31,4 +31,9 @@ Make sure you have Python and pip installed. You can download them from [here](h
 To run the application, execute the following command:
 
 ```bash
-python3 app.py
+python3 app.py 
+
+or
+
+python app.py
+```
