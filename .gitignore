@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependencies
+venv/
+env/
+.env
+
+# Environment variables
+.env.local
+.env.*.local
+
+# Editor files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+# Static files
+/static/
+
+# Uploaded files
+/uploads/
+
+# Compiled Python files
+*.pyc
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# Environment variables from .env
+.env
