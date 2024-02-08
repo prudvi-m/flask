@@ -19,7 +19,7 @@ def initialize_database():
 
 # Function to get a database connection
 def get_db_connection():
-    conn = sqlite3.connect('todo.db')
+    conn = sqlite3.connect('todo.sqlite')
     conn.row_factory = sqlite3.Row
     return conn
 
