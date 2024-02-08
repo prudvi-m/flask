@@ -32,8 +32,10 @@ To run the application, execute the following command:
 
 ```bash
 python3 app.py 
+```
 
 or
 
+```bash
 python app.py
 ```
